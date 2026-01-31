@@ -12,17 +12,6 @@
 
 ---
 
-  ## 🚀 About Me  
-
-I’m a passionate and curious Data Science enthusiast from India, with a strong interest in turning raw data into meaningful insights.  
-I enjoy working at the intersection of analytics, machine learning, and intelligent systems. Whether it’s building predictive models, creating dashboards, or exploring NLP and Computer Vision, I love solving real-world problems through data.
-
-- 🧠 *Interests:* Data Science, Machine Learning, NLP, Computer Vision, Deep Learning  
-- 💡 *Passions:* Building projects, Data Visualization, Exploring AI-driven solutions  
-- 📌 *Philosophy:* “Consistency and curiosity will always lead to growth.”  
-- ✨ *Aesthetic:* I like keeping my work clean, minimal, and impactful.  
-
-
 # 💫 About Me:
 I’m a Data & AI enthusiast with hands-on experience in Python, SQL, and Statistics.<br>My work focuses on Machine Learning, Deep Learning, NLP, and Computer Vision using tools like NumPy, Pandas, OpenCV, Matplotlib, and Seaborn.<br><br>I enjoy building end-to-end data solutions — from data cleaning and visualization to model development and evaluation.<br><br>Tech Stack:<br>Python | SQL | Statistics | NumPy | Pandas | Matplotlib | Seaborn<br>Machine Learning | Deep Learning | NLP | OpenCV | R (RStudio)<br><br>Currently building real-world ML and AI projects to strengthen practical problem-solving and deployment skills.
 
